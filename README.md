@@ -1,4 +1,4 @@
-# Network Analycis Workshop
+# Network Analysis Workshop
 
 ## Introduction
 
@@ -16,7 +16,7 @@ This repository contains the presentation and resources for the "Network Analysi
 - `Network_Analysis.qmd`: Quarto markdown file for the presentation.
 - `data/`: Directory containing datasets used in the examples and exercises.
 - `images/`: Contains visual resources used in the presentation.
-- Quarto files: contains the needed information to rended the DIME template. 
+- Quarto files: contains the needed information to rend the DIME template. 
 
 ## Usage
 
